@@ -1,0 +1,8 @@
+---
+title: "Alexandre"
+date: "2/14/2022"
+output: html_document
+---
+* I used to be decent at tennis
+* I speak French
+* I'm from California
